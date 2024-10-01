@@ -1,0 +1,21 @@
+# What repos we trust enough to do automated unit tests.
+
+REPOS:
+- "https://github.com/cathay4t/libstoragemgmt.git"
+- "https://github.com/tasleson/libstoragemgmt.git"
+- "https://github.com/joehandzik/libstoragemgmt.git"
+- "https://github.com/BlaineEXE/libstoragemgmt.git"
+- "https://github.com/agrover/libstoragemgmt.git"
+- "https://github.com/cfergeau/libstoragemgmt.git"
+- "https://github.com/mulkieran/libstoragemgmt.git"
+- "https://github.com/veillard/libstoragemgmt.git"
+- "https://github.com/Mashimiao/libstoragemgmt.git"
+- "https://github.com/jumitche/libstoragemgmt.git"
+- "https://github.com/cvedel/libstoragemgmt.git"
+- "https://github.com/libstorage/libstoragemgmt.git"
+- "https://github.com/brraghav/libstoragemgmt.git"
+- "https://github.com/sharath-t/libstoragemgmt.git"
+- "https://github.com/hjmallon/libstoragemgmt.git"
+- "https://github.com/PhoenixMage/libstoragemgmt.git"
+- "https://github.com/cstoyanov-scality/libstoragemgmt.git"
+- "https://github.com/dmick/libstoragemgmt.git"

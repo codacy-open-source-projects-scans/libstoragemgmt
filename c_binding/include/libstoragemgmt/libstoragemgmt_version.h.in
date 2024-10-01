@@ -1,0 +1,18 @@
+/*
+ * SPDX-License-Identifier: LGPL-2.1-or-later
+ * 
+ * Copyright (C) 2011-2023 Red Hat, Inc.
+ *
+ * Author: Tony Asleson <tasleson@redhat.com>
+ */
+
+#ifndef LSM_VERSION_H_
+#define LSM_VERSION_H_
+
+#define LSM_MAJOR	@LIBSM_MAJOR_VERSION@
+#define LSM_MINOR	@LIBSM_MINOR_VERSION@
+#define LSM_MICRO	@LIBSM_MICRO_VERSION@
+
+#define LSM_VERSION ((LSM_MAJOR * 10000) + (LSM_MINOR * 100) + LSM_MICRO)
+
+#endif

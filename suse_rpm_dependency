@@ -1,0 +1,25 @@
+file
+gcc
+tar
+make
+gcc
+gcc-c++
+libtool
+autoconf
+procps
+automake
+perl
+valgrind
+chrpath
+libconfig-devel
+python-M2Crypto
+python-devel
+python-pywbem
+'pkgconfig(check)'
+'pkgconfig(glib-2.0)'
+'pkgconfig(bash-completion) >= 2.0'
+'pkgconfig(systemd)'
+'pkgconfig(udev)'
+'pkgconfig(libudev)'
+sqlite3-devel
+python-six

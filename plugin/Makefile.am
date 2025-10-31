@@ -1,0 +1,2 @@
+SUBDIRS=simc megaraid_plugin hpsa_plugin arcconf_plugin nfs_plugin local_plugin smispy_plugin targetd_plugin sim_plugin
+
